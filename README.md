@@ -1,11 +1,14 @@
- ### Hi there👋, I'm Prachi Verma
+<h1 align="center">Hi 👋, I'm Prachi Verma</h1>
+<h3 align="left">Software Developer</h3>
+<img align="right" alt="IMAGE" src="https://ouch-cdn2.icons8.com/tDVPnO7F3kdD0xVzd2VnMPmlb_Bhb841G_CUofgmuqk/rs:fit:256:324/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNjgy/L2ExZGYxMGE0LTFk/NjMtNDA0Mi04ZWNj/LWI3OWU4N2ViM2Iw/Zi5wbmc.png" width="480px"/>
+
  
 # 💫 About Me:
 
-🔭 I’m currently working on Flutter Development
-🌱 I’m currently learning Frontend Development ( Flutter , React ) 
-💬 Ask me about Flutter , Firebase , React , C/C++ 
-📫 reach me at :2011vermaprachi1999@gmail.com 
+<li align="left">🔭 I’m currently working on Flutter Development </b></li>
+<li align="left">🌱 I’m currently learning Frontend Development ( Flutter , React ) </b></li>
+<li align="left">💬 Ask me about Flutter , Firebase , React , C/C++ </b></li>
+<li align="left">📫 reach me at :2011vermaprachi1999@gmail.com </b></li>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_prachiverma__?igshid=NTc4MTIwNjQ2YQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachive) 
