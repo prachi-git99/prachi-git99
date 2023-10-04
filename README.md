@@ -8,7 +8,7 @@
 <li align="left">🔭 I’m currently working on Flutter Development </b></li>
 <li align="left">🌱 I’m currently learning Frontend Development ( Flutter , React ) </b></li>
 <li align="left">💬 Ask me about Flutter , Firebase , React , C/C++ </b></li>
-<li align="left">📫 reach me at :2011vermaprachi1999@gmail.com </b></li>
+<li align="left">📫 reach me at : 2011vermaprachi1999@gmail.com </b></li>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_prachiverma__?igshid=NTc4MTIwNjQ2YQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachive) 
